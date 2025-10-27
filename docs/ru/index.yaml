@@ -1,6 +1,6 @@
-title: Шаблон документации
+title: Инструкция пользователя
 links:
-  - title: О проекте
+  - title: О платформе
     href: about.md
   - title: Страница Diplodoc на главной странице
     href: page.md
