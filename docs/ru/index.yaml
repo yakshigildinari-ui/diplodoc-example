@@ -2,9 +2,9 @@ title: Инструкция пользователя QR-Passport
 links:
   - title: О платформе
     href: about.md
-  - title: Обновления платформы
+    - title: Раздел «Организация»
     href: page.md
-  - title: Часто задаваемые вопросы
+  - title: Раздел «Оборудование»
     href: anotherpage.md
-  - title: Техническая поддержка
+  - title: Раздел «Раздел техническая поддержка»
     href: sub-section/
