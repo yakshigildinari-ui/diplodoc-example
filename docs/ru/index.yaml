@@ -36,6 +36,7 @@ blocks:
           textSize: s
         text: |
           [Описание](about.md)
+          
           [Обновления](about.md)
 
       - type: basic-card
@@ -77,6 +78,5 @@ blocks:
 
   - type: content-layout-block
     size: s
-    textContent:
-      text: "\_"
+
 animated: true  
