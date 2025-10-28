@@ -3,9 +3,9 @@ href: index.yaml
 items: 
   - name: О проекте
     href: about.md
-  - name: Дополнительная страница
+  - name: Раздел «Организация»
     href: page.md
-  - name: Другая страница
+  - name: Раздел «Оборудование»
     href: anotherpage.md
   - name: Подраздел
     include:
