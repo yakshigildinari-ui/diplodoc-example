@@ -3,8 +3,8 @@ links:
   - title: О платформе
     href: about.md
     - title: Раздел «Организация»
-    href: organization.md
+    href: page.md
   - title: Раздел «Оборудование»
-    href: oborudovanie.md
+    href: anotherpage.md
   - title: Раздел «Раздел техническая поддержка»
     href: sub-section/
