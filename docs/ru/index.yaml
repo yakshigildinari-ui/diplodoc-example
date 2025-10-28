@@ -1,10 +1,81 @@
-title: Инструкция пользователя QR-Passport
-links:
-  - title: О платформе
-    href: about.md
-  - title: Раздел «Организация»
-    href: page.md
-  - title: Раздел «Оборудование»
-    href: anotherpage.md
-  - title: Раздел «Техническая поддержка»
-    href: sub-section/
+# fullScreen: true
+blocks:
+  - type: header-block
+    title: Инструкция пользователя QR-Passport
+    description: |
+      Полный контрол‍ь над технической документацией вашего оборудования
+    textWidth: 'm'
+    verticalOffset: 'm'
+    background:
+      light:
+        image:
+          mobile: '../_images/cover.png'
+          desktop: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/index-diplodoc/ddos-index-cover.png'
+          disableCompress: true
+        color: '#f5f5f5'
+        fullWidth: false
+      dark:
+        image:
+          mobile: '../_images/cover-dark.png'
+          desktop: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/index-diplodoc/ddos-index-cover-dark.png'
+          disableCompress: true
+        color: '#f5f5f5'
+        fullWidth: false
+
+  - type: card-layout-block
+    colSizes:
+      all: 12
+      xl: 4
+      sm: 6
+      md: 4
+    children:
+
+      - type: basic-card
+        title: 
+          text: О платформе
+          textSize: s
+        text: |
+          [Описание](about.md)
+
+      - type: basic-card
+        title: 
+          text: Раздел «Организация»
+          textSize: s
+        text: |
+          [Общая информация](page.md)
+          
+          [Пользователи](page.md) 
+          
+          [Департаменты](page.md) 
+          
+          [Должности](page.md)
+          
+      - type: basic-card
+        title: 
+          text: Раздел «Оборудование»
+          textSize: s
+        text: |
+          [Группы](anotherpage.md)
+          
+          [Модели оборудования](anotherpage.md)
+          
+          [Зарегистрированные изделия](anotherpage.md)
+          
+          [Динамические параметры](anotherpage.md)
+          
+          [Производители](anotherpage.md)
+
+      - type: basic-card
+        title: 
+          text: Раздел «Техническая поддержка»
+          textSize: s
+        text: |
+          [Тикеты](anotherpage.md)
+
+          [Категории тикетов](anotherpage.md)
+
+  - type: content-layout-block
+    size: s
+    textContent:
+      text: "\_"
+animated: true  
