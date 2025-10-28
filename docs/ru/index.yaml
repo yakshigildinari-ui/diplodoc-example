@@ -4,8 +4,8 @@ blocks:
     title: Инструкция пользователя QR-Passport
     description: |
       Полный контрол‍ь над технической документацией вашего оборудования
-    textWidth: 'm'
-    verticalOffset: 'm'
+    textWidth: 's'
+    verticalOffset: 's'
     background:
       light:
         image:
