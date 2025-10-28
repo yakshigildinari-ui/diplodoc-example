@@ -9,17 +9,17 @@ blocks:
     background:
       light:
         image:
-          mobile: 'images/logo.png'
-          desktop: 'images/logo.png'
+          mobile: '../_images/cover.png'
+          desktop: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/index-diplodoc/ddos-index-cover.png'
           disableCompress: true
-        color: '#f5f5f5'
+        color: '#C6FE4D'
         fullWidth: false
       dark:
         image:
-          mobile: 'images/logo.png'
-          desktop: 'images/logo.png'
+          mobile: '../_images/cover-dark.png'
+          desktop: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/index-diplodoc/ddos-index-cover-dark.png'
           disableCompress: true
-        color: '#f5f5f5'
+        color: '#C6FE4D'
         fullWidth: false
 
   - type: card-layout-block
