@@ -22,6 +22,8 @@ navigation:
 items: 
   - name: О платформе
     href: about.md
+  - name: Обновления
+    href: updates.md
   - name: Раздел «Организация»
     href: page.md
   - name: Раздел «Оборудование»
