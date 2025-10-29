@@ -5,9 +5,15 @@ navigation:
     url: "./"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: "./_images/titul.png"
+      icon: 
+        src: "./_images/titul.png"
+        width: 150
+        height: 40
     light:
-      icon: "./_images/titul.png"
+      icon: 
+        src: "./_images/titul.png"
+        width: 150
+        height: 40
   header:
     leftItems:
       - text: "Сайт"
