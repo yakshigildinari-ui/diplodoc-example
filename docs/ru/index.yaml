@@ -13,6 +13,7 @@ blocks:
         size: 'promo'
         url: 'https://www.qrpassport.tech/#:~:text=info%40qrpassport.tech'
     textWidth: 's'
+    verticalOffset: 's'
     background:
       light:
         image:
@@ -31,7 +32,6 @@ blocks:
       sm: 6
       md: 6
     children:
-
       - type: basic-card
         title: 
           text: О платформе
@@ -40,7 +40,6 @@ blocks:
           [Описание](about.md)
           
           [Обновления](about.md)
-
       - type: basic-card
         title: 
           text: Раздел «Организация»
@@ -52,8 +51,7 @@ blocks:
           
           [Департаменты](page.md) 
           
-          [Должности](page.md)
-          
+          [Должности](page.md)        
       - type: basic-card
         title: 
           text: Раздел «Оборудование»
@@ -68,7 +66,6 @@ blocks:
           [Динамические параметры](anotherpage.md)
           
           [Производители](anotherpage.md)
-
       - type: basic-card
         title: 
           text: Раздел «Техническая поддержка»
@@ -77,7 +74,6 @@ blocks:
           [Тикеты](anotherpage.md)
 
           [Категории тикетов](anotherpage.md)
-
   - type: content-layout-block
     size: s
 
