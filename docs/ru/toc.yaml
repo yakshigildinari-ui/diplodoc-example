@@ -5,9 +5,9 @@ navigation:
     url: "./"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: "'./_images/logo.svg'"
+      icon: './_images/logo.svg'
     light:
-      icon: "'./_images/logo.svg'"
+      icon: './_images/logo.svg'
   header:
     leftItems:
       - text: "Сайт"
