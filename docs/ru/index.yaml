@@ -17,10 +17,10 @@ blocks:
     background:
       light:
         image:
-          mobile: './_images/logo.png'
-          desktop: './_images/logo.png'
+          mobile: './_image/logo.png'
+          desktop: './_image/logo.png'
           disableCompress: true
-        color: '#C6FE4D'
+        color: '#F5F5F5'
         fullWidth: false
       dark:
         color: '#424147'
