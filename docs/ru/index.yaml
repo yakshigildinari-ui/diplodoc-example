@@ -17,8 +17,8 @@ blocks:
     background:
       light:
         image:
-          mobile: './_image/logo.png'
-          desktop: './_image/logo.png'
+          mobile: './_images/logo.png'
+          desktop: './_images/logo.png'
           disableCompress: true
         color: '#F5F5F5'
         fullWidth: false
