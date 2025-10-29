@@ -13,7 +13,8 @@ blocks:
         size: 'promo'
         url: 'https://www.qrpassport.tech/#:~:text=info%40qrpassport.tech'
     textWidth: 's'
-    verticalOffset: 's'
+    verticalOffset: 'xs'
+    height: 'small'
     background:
       light:
         image:
