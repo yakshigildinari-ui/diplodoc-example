@@ -23,11 +23,7 @@ blocks:
         color: '#C6FE4D'
         fullWidth: false
       dark:
-        image:
-          mobile: './_images/logo.png'
-          desktop: './_images/logo.png'
-          disableCompress: true
-        color: '#C6FE4D'
+        color: '#424147'
         fullWidth: false
   - type: card-layout-block
     colSizes:
