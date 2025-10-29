@@ -1,13 +1,9 @@
 title: Инструкция пользователя QR-Passport
 href: index.yaml
 navigation:
-  logo:
-    url: "./"
-    urlTitle: 'Вернуться на главную'
-    dark:
-      icon: "./_images/titul.png"
-    light:
-      icon: "./_images/titul.png"
+  logo: "./_images/titul.png"
+  url: "./"
+  urlTitle: 'Вернуться на главную'
   header:
     leftItems:
       - text: "Сайт"
