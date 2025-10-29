@@ -17,15 +17,15 @@ blocks:
     background:
       light:
         image:
-          mobile: '../_images/logo.png'
-          desktop: '../_images/logo.png'
+          mobile: '../../_images/logo.png'
+          desktop: '../../_images/logo.png'
           disableCompress: true
         color: '#C6FE4D'
         fullWidth: false
       dark:
         image:
-          mobile: '../_images/logo.png'
-          desktop: '../_images/logo.png'
+          mobile: '../../_images/logo.png'
+          desktop: '../../_images/logo.png'
           disableCompress: true
         color: '#C6FE4D'
         fullWidth: false
