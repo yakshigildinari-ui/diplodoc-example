@@ -28,7 +28,7 @@ items:
     href: page.md
   - name: Раздел «Оборудование»
     href: anotherpage.md
-  - name: Подраздел
+  - name: Раздел «Организация»
     include:
-      path: sub-section/toc.yaml
+      path: company/company.md
       mode: link
