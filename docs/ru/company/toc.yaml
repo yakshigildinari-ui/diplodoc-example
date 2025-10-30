@@ -1,5 +1,11 @@
 title: Пример содержания подраздела
 href: index.yaml
 items:
-  - name: Страница контента в подразделе
+  - name: Общая информация
     href: company.md
+  - name: Пользователи
+    href: users.md
+  - name: Департаменты
+    href: department.md
+  - name: Должности
+    href: positions.md
