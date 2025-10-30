@@ -12,16 +12,16 @@
 
 **Активные кнопки**
 
-<img src="../_images/icon1_1.png" width="16" height="16"> – добавить элемент  
-<img src="../_images/icon2_1.png" width="16" height="16"> – переход к блоку
+<img src="yakshigildinari-ui/diplodoc-example/docs/ru/_images/icon1_1.png" width="16" height="16"> – добавить элемент  
+<img src="docs/ru/_images/icon2_1.png" width="16" height="16"> – переход к блоку
 
 {% endnote %}
 
 
 |        | Активные кнопки    |
 |------:|--------------------|
-| <img src="../_images/icon1_1.png" width="16" height="16">| редактировать блок |
-| <img src="../_images/icon2_1.png" width="16" height="16"> |  история изменений |
+| <img src="_images/icon1_1.png" width="16" height="16">| редактировать блок |
+| <img src="./_images/icon2_1.png" width="16" height="16"> |  история изменений |
 
 
 
