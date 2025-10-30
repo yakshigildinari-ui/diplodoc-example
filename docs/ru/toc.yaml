@@ -5,7 +5,7 @@ navigation:
     url: "./"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: ![Лого](../_images/logo.png)
+      icon: "![Лого](../_images/logo.png)"
     light:
       icon: "![Лого](../_images/logo.png)"
   header:
