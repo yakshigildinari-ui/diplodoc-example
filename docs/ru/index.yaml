@@ -39,19 +39,19 @@ blocks:
         text: |
           [Описание](about.md)
           
-          [Обновления](about.md)
+          [Обновления](updates.md)
       - type: basic-card
         title: 
           text: Раздел «Организация»
           textSize: s
         text: |
-          [Общая информация](page.md)
+          [Общая информация](company.md)
           
-          [Пользователи](page.md) 
+          [Пользователи](users.md) 
           
-          [Департаменты](page.md) 
+          [Департаменты](department.md) 
           
-          [Должности](page.md)        
+          [Должности](positions.md)        
       - type: basic-card
         title: 
           text: Раздел «Оборудование»

@@ -6,12 +6,12 @@ navigation:
     urlTitle: 'Вернуться на главную'
     dark:
       icon: 
-        src: "./_images/titul.png"
+        src: "https://cdn.prod.website-files.com/6603d96aba3ded64d735fd75/6608f2be8d8302eabf161fdb_logo.svg"
         width: 150
         height: 40
     light:
       icon: 
-        src: "./_images/titul.png"
+        src: "https://cdn.prod.website-files.com/6603d96aba3ded64d735fd75/6608f2be8d8302eabf161fdb_logo.svg"
         width: 150
         height: 40
   header:
