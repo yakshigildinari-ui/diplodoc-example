@@ -5,15 +5,9 @@ navigation:
     url: "./"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: 
-        src: "https://cdn.prod.website-files.com/6603d96aba3ded64d735fd75/6608f2be8d8302eabf161fdb_logo.svg"
-        width: 150
-        height: 40
+      icon: "https://cdn.prod.website-files.com/6603d96aba3ded64d735fd75/6608f2be8d8302eabf161fdb_logo.svg"
     light:
-      icon: 
-        src: "https://cdn.prod.website-files.com/6603d96aba3ded64d735fd75/6608f2be8d8302eabf161fdb_logo.svg"
-        width: 150
-        height: 40
+      icon: "https://cdn.prod.website-files.com/6603d96aba3ded64d735fd75/6608f2be8d8302eabf161fdb_logo.svg"
   header:
     leftItems:
       - text: "Сайт"
