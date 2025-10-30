@@ -12,16 +12,16 @@
 
 **Активные кнопки**
 
-<img src="yakshigildinari-ui/diplodoc-example/docs/ru/_images/icon1_1.png" width="16" height="16"> – добавить элемент  
-<img src="docs/ru/_images/icon2_1.png" width="16" height="16"> – переход к блоку
+<img src="yakshigildinari-ui/diplodoc-example/docs/ru/_images/icon1_1.png"> – добавить элемент  
+<img src="docs/ru/_images/icon2_1.png"> – переход к блоку
 
 {% endnote %}
 
 
 |        | Активные кнопки    |
 |------:|--------------------|
-| <img src="_images/icon1_1.png" width="16" height="16">| редактировать блок |
-| <img src="./_images/icon2_1.png" width="16" height="16"> |  история изменений |
+| ![Кнопка1](../_images/icon1.png)| редактировать блок |
+| ![Кнопка2](../_images/icon2_1.png) |  история изменений |
 
 
 
@@ -43,8 +43,8 @@
 
 |        | Активные кнопки    |
 |:------:|--------------------|
-| <img src="../_images/edit_1.png" height="24"> | редактировать блок |
-| <img src="../_images/story_1.png" height="22"> |  история изменений |
+| <img src="../_images/edit_1.png"> | редактировать блок |
+| <img src="../_images/story_1.png"> |  история изменений |
 
 
 
@@ -52,7 +52,7 @@
 
 **Активные кнопки**
 
-<img src="../_images/edit_1.png" height="24"> – добавить элемент  
-<img src="../_images/story_1.png" height="22"> – переход к блоку
+<img src="../_images/edit_1.png"> – добавить элемент  
+<img src="../_images/story_1.png"> – переход к блоку
 
 {% endnote %}
