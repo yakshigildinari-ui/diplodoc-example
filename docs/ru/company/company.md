@@ -12,19 +12,17 @@
 
 **Активные кнопки**
 
-<img src="../_images/icon1.png" width="16" height="16"> – добавить элемент  
-<img src="../_images/icon2.png" width="16" height="16"> – переход к блоку
+<img src="../_images/icon1_1.png" width="16" height="16"> – добавить элемент  
+<img src="../_images/icon2_1.png" width="16" height="16"> – переход к блоку
 
 {% endnote %}
 
-{% note info "" %}
 
 |        | Активные кнопки    |
 |------:|--------------------|
-| <img src="../_images/icon1.png" width="16" height="16">| редактировать блок |
-| <img src="../_images/icon2.png" width="16" height="16"> |  история изменений |
+| <img src="../_images/icon1_1.png" width="16" height="16">| редактировать блок |
+| <img src="../_images/icon2_1.png" width="16" height="16"> |  история изменений |
 
-{% endnote %}
 
 
 ## Общая информация
@@ -42,20 +40,19 @@
 
 * _Данные администратора организации_ – информация о сотруднике, который отвечает за настройку и управление системой QR-Passport.
 
-{% note info "" %}
 
 |        | Активные кнопки    |
 |:------:|--------------------|
-| <img src="../_images/edit.png" height="24"> | редактировать блок |
-| <img src="../_images/story.png" height="22"> |  история изменений |
+| <img src="../_images/edit_1.png" height="24"> | редактировать блок |
+| <img src="../_images/story_1.png" height="22"> |  история изменений |
 
-{% endnote %}
+
 
 {% note info "" %}
 
 **Активные кнопки**
 
-<img src="../_images/edit.png" height="24"> – добавить элемент  
-<img src="../_images/story.png" height="22"> – переход к блоку
+<img src="../_images/edit_1.png" height="24"> – добавить элемент  
+<img src="../_images/story_1.png" height="22"> – переход к блоку
 
 {% endnote %}
