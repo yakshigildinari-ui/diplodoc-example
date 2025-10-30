@@ -34,7 +34,7 @@ blocks:
     children:
       - type: basic-card
         title: 
-          text: О платформе
+          text: О платформе
           textSize: s
         text: |
           [Описание](about.md)

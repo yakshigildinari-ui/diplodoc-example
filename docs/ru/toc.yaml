@@ -30,5 +30,5 @@ items:
     href: anotherpage.md
   - name: Раздел «Организация»
     include:
-      path: company/company.md
+      path: company/toc.yaml
       mode: link
