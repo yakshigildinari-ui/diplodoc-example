@@ -3,12 +3,11 @@ href: index.yaml
 navigation:
   logo:
     url: "../ru"
+    urlTitle: 'Вернуться на главную'
     dark:
-      icon: 'https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg'
-      text: 'QR-Passport' 
+      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg"
     light:
-      icon: 'https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg'
-      text: 'QR-Passport' 
+      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"
   header:
     leftItems:
       - text: "Сайт"
@@ -17,22 +16,31 @@ navigation:
 items: 
   - name: Платформа QR-Passport
     labeled: true
-    href: index.yaml
-  - name: О платформе    
-    href: about.md
-  - name: Обновления
-    href: updates.md
+    items:
+      - name: О платформе    
+        href: about.md
+      - name: Обновления
+        href: updates.md
   - name: Раздел «Организация»
     labeled: true
-    href: index.yaml
-  - name: Организация
-    include:
-      path: company/toc.yaml
-      mode: link   
+    items:
+      - name: Организация
+        include:
+        path: company/toc.yaml
+        mode: link   
   - name: Раздел «Оборудование»
-    include:
-      path: equipment/toc.yaml
-      mode: link   
+    labeled: true
+    items:  
+      - name: Оборудование    
+        href: equipment.md
+      - name: Модели оборудования    
+        href: models.md
+      - name: Зарегистрированные изделия    
+        href: registered_products.md    
+      - name: Динамические параметры    
+        href: dynamic_parameters.md 
+      - name: Производители    
+        href: manufacturers.md                     
   - name: Раздел «Техническая поддержка»
     include:
       path: support/toc.yaml
