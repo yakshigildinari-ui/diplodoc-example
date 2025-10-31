@@ -14,42 +14,19 @@ navigation:
         type: "link"
         url: "https://www.qrpassport.tech/"
 items: 
-  - name: Платформа QR-Passport
-    labeled: true
-    items:
-      - name: О платформе    
-        href: about.md
-      - name: Обновления
-        href: updates.md
+  - name: О платформе
+    href: about.md
+  - name: Обновления
+    href: updates.md
   - name: Раздел «Организация»
-    labeled: true
-    items:
-      - name: Общая информация
-        href: company/company.md
-      - name: Пользователи
-        href: company/users.md
-      - name: Департаменты
-        href: company/department.md
-      - name: Должности
-        href: company/positions.md
+    include:
+      path: company/toc.yaml
+      mode: link   
   - name: Раздел «Оборудование»
-    labeled: true
-    items:  
-      - name: Группы    
-        href: equipment/equipment.md
-      - name: Модели оборудования    
-        href: equipment/models.md
-      - name: Зарегистрированные изделия    
-        href: equipment/registered_products.md    
-      - name: Динамические параметры    
-        href: equipment/dynamic_parameters.md 
-      - name: Производители    
-        href: equipment/manufacturers.md                     
+    include:
+      path: equipment/toc.yaml
+      mode: link   
   - name: Раздел «Техническая поддержка»
-    labeled: true
-    items:  
-      - name: Тикеты    
-        href: support/support.md
-      - name: Категории тикетов    
-        href: support/ticket_categories.md
-
+    include:
+      path: support/toc.yaml
+      mode: link
