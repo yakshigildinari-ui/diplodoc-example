@@ -24,24 +24,32 @@ items:
   - name: Раздел «Организация»
     labeled: true
     items:
-      - name: Организация
-        include:
-          path: company/toc.yaml
-          mode: link   
+      - name: Общая информация
+        href: company/company.md
+      - name: Пользователи
+        href: company/users.md
+      - name: Департаменты
+        href: company/department.md
+      - name: Должности
+        href: company/positions.md
   - name: Раздел «Оборудование»
     labeled: true
     items:  
-      - name: Оборудование    
-        href: equipment.md
+      - name: Группы    
+        href: equipment/equipment.md
       - name: Модели оборудования    
-        href: models.md
+        href: equipment/models.md
       - name: Зарегистрированные изделия    
-        href: registered_products.md    
+        href: equipment/registered_products.md    
       - name: Динамические параметры    
-        href: dynamic_parameters.md 
+        href: equipment/dynamic_parameters.md 
       - name: Производители    
-        href: manufacturers.md                     
+        href: equipment/manufacturers.md                     
   - name: Раздел «Техническая поддержка»
-    include:
-    path: support/toc.yaml
-    mode: link
+    labeled: true
+    items:  
+      - name: Тикеты    
+        href: support/support.md
+      - name: Категории тикетов    
+        href: support/ticket_categories.md
+
