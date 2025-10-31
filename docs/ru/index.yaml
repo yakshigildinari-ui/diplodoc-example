@@ -45,35 +45,35 @@ blocks:
           text: Раздел «Организация»
           textSize: s
         text: |
-          [Общая информация](company.md)
+          [Общая информация](company/company.md)
           
-          [Пользователи](users.md) 
+          [Пользователи](company/users.md) 
           
-          [Департаменты](department.md) 
+          [Департаменты](company/department.md) 
           
-          [Должности](positions.md)        
+          [Должности](company/positions.md)        
       - type: basic-card
         title: 
           text: Раздел «Оборудование»
           textSize: s
         text: |
-          [Группы](anotherpage.md)
+          [Группы](equipment/equipment.md)
           
-          [Модели оборудования](anotherpage.md)
+          [Модели оборудования](equipment/models.md)
           
-          [Зарегистрированные изделия](anotherpage.md)
+          [Зарегистрированные изделия](equipment/registered_products.md)
           
-          [Динамические параметры](anotherpage.md)
+          [Динамические параметры](equipment/dynamic_parameters.md)
           
-          [Производители](anotherpage.md)
+          [Производители](equipment/manufacturers.md)
       - type: basic-card
         title: 
           text: Раздел «Техническая поддержка»
           textSize: s
         text: |
-          [Тикеты](anotherpage.md)
+          [Тикеты](support/support.md)
 
-          [Категории тикетов](anotherpage.md)
+          [Категории тикетов](support/ticket_categories.md)
   - type: content-layout-block
     size: s
 
