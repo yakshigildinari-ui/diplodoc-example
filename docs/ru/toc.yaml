@@ -26,8 +26,8 @@ items:
     items:
       - name: Организация
         include:
-        path: company/toc.yaml
-        mode: link   
+          path: company/toc.yaml
+          mode: link   
   - name: Раздел «Оборудование»
     labeled: true
     items:  
@@ -43,5 +43,5 @@ items:
         href: manufacturers.md                     
   - name: Раздел «Техническая поддержка»
     include:
-      path: support/toc.yaml
-      mode: link
+    path: support/toc.yaml
+    mode: link
