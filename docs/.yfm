@@ -2,3 +2,5 @@ langs: ['ru', 'en']
 
 docs-viewer:
   langs: ['en','ru']
+
+themes: ['light', 'dark']
