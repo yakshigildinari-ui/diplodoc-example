@@ -5,9 +5,9 @@ navigation:
     url: "../ru"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: "https://i.postimg.cc/PxkZzDVy/logo2.png"
+      icon: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgMTUwIDQwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHg9Ijc1IiB5PSIyNSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE2IiBmaWxsPSIjMDA0QTg5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+UVItUGFzc3BvcnQ8L3RleHQ+PC9zdmc+"
     light:
-      icon: "https://i.postimg.cc/PxkZzDVy/logo2.png"
+      icon: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgMTUwIDQwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHg9Ijc1IiB5PSIyNSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE2IiBmaWxsPSIjMDA0QTg5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+UVItUGFzc3BvcnQ8L3RleHQ+PC9zdmc+"
   header:
     leftItems:
       - text: "Сайт"
