@@ -5,9 +5,9 @@ navigation:
     url: "../ru"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: "./_images/logo2.png"
+      icon: "https://raw.githubusercontent.com/yakshigildinari-ui/diplodoc-example/acd748edefc456febfd07b34608c957b9c1c4e8e/docs/ru/_images/logo.svg"
     light:
-      icon: "./_images/logo2.png"
+      icon: "https://raw.githubusercontent.com/yakshigildinari-ui/diplodoc-example/acd748edefc456febfd07b34608c957b9c1c4e8e/docs/ru/_images/logo.svg"
   header:
     leftItems:
       - text: "Сайт"
