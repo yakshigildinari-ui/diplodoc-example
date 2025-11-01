@@ -9,4 +9,10 @@
 
 Для начала работы с QR-Passport войдите в систему по [ссылке](https://qrpassport.app/admin). Используйте для входа имя пользователя и пароль, которые были отправлены на вашу электронную почту.
 
+{% if theme == 'light' %}
 ![Регистрация](./_images/login.png)
+{% endif %}
+
+{% if theme == 'dark' %}
+![Регистрация](./_images/login_dark.png)
+{% endif %}
