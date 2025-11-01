@@ -9,8 +9,7 @@
 
 Для начала работы с QR-Passport войдите в систему по [ссылке](https://qrpassport.app/admin). Используйте для входа имя пользователя и пароль, которые были отправлены на вашу электронную почту.
 
-{% if env.YFM_BUILD_MODE == 'dark' %}
-![Регистрация](./_images/login_dark.png)
-{% else %}
-![Регистрация](./_images/login.png)
-{% endif %}
+<picture>
+  <source srcset="./_images/login_dark.png" media="(prefers-color-scheme: dark)">
+  <img src="./_images/login.png" alt="Регистрация">
+</picture>
