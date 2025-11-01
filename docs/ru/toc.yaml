@@ -5,9 +5,9 @@ navigation:
     url: "../ru"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: "https://raw.githubusercontent.com/yakshigildinari-ui/diplodoc-example/acd748edefc456febfd07b34608c957b9c1c4e8e/docs/ru/_images/logo.svg"
+      icon: "https://github.com/yakshigildinari-ui/diplodoc-example/blob/ver.1_QR/docs/ru/_images/logo2.png?raw=true"
     light:
-      icon: "https://raw.githubusercontent.com/yakshigildinari-ui/diplodoc-example/acd748edefc456febfd07b34608c957b9c1c4e8e/docs/ru/_images/logo.svg"
+      icon: "https://github.com/yakshigildinari-ui/diplodoc-example/blob/ver.1_QR/docs/ru/_images/logo2.png?raw=true"
   header:
     leftItems:
       - text: "Сайт"
