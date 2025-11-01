@@ -9,7 +9,16 @@
 
 Для начала работы с QR-Passport войдите в систему по [ссылке](https://qrpassport.app/admin). Используйте для входа имя пользователя и пароль, которые были отправлены на вашу электронную почту.
 
-<picture>
-  <source srcset="./_images/login_dark.png" media="(prefers-color-scheme: dark)">
-  <img src="./_images/login.png" alt="Регистрация">
-</picture>
+<img src="./_images/login.png" alt="Регистрация" class="light-theme">
+<img src="./_images/login_dark.png" alt="Регистрация" class="dark-theme">
+
+<style>
+.light-theme { display: block; }
+.dark-theme { display: none; }
+
+/* Классы, которые добавляет Diplodoc при переключении темы */
+.dd-theme-light .light-theme { display: block; }
+.dd-theme-light .dark-theme { display: none; }
+.dd-theme-dark .light-theme { display: none; }
+.dd-theme-dark .dark-theme { display: block; }
+</style>
