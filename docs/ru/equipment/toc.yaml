@@ -1,6 +1,8 @@
 title: Раздел «Оборудование»
 href: index.yaml
 items:
+  - name: О разделе
+    href: about_equipment.md
   - name: Группы
     href: equipment.md
   - name: Модели оборудования
