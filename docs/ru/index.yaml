@@ -1,4 +1,4 @@
-# fullScreen: true
+
 blocks:
   - type: header-block
     title: Инструкция пользователя QR-Passport
@@ -17,17 +17,13 @@ blocks:
     background:
       light:
         image:
-          mobile: '../_images/cover.png'
-          desktop: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/index-diplodoc/ddos-index-cover.png'
+          mobile: './_images/logo.png'
+          desktop: './_images/logo.png'
           disableCompress: true
-        color: '#C6FE4D'
+        color: '#F5F5F5'
         fullWidth: false
       dark:
-        image:
-          mobile: '../_images/cover-dark.png'
-          desktop: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/index-diplodoc/ddos-index-cover.png'
-          disableCompress: true
-        color: '#C6FE4D'
+        color: '#424147'
         fullWidth: false
   - type: card-layout-block
     colSizes:
@@ -36,53 +32,48 @@ blocks:
       sm: 6
       md: 6
     children:
-
       - type: basic-card
         title: 
-          text: О платформе
+          text: О платформе
           textSize: s
         text: |
           [Описание](about.md)
           
-          [Обновления](about.md)
-
+          [Обновления](updates.md)
       - type: basic-card
         title: 
           text: Раздел «Организация»
           textSize: s
         text: |
-          [Общая информация](page.md)
+          [Общая информация](company/company.md)
           
-          [Пользователи](page.md) 
+          [Пользователи](company/users.md) 
           
-          [Департаменты](page.md) 
+          [Департаменты](company/department.md) 
           
-          [Должности](page.md)
-          
+          [Должности](company/positions.md)        
       - type: basic-card
         title: 
           text: Раздел «Оборудование»
           textSize: s
         text: |
-          [Группы](anotherpage.md)
+          [Группы](equipment/equipment.md)
           
-          [Модели оборудования](anotherpage.md)
+          [Модели оборудования](equipment/models.md)
           
-          [Зарегистрированные изделия](anotherpage.md)
+          [Зарегистрированные изделия](equipment/registered_products.md)
           
-          [Динамические параметры](anotherpage.md)
+          [Динамические параметры](equipment/dynamic_parameters.md)
           
-          [Производители](anotherpage.md)
-
+          [Производители](equipment/manufacturers.md)
       - type: basic-card
         title: 
           text: Раздел «Техническая поддержка»
           textSize: s
         text: |
-          [Тикеты](anotherpage.md)
+          [Тикеты](support/support.md)
 
-          [Категории тикетов](anotherpage.md)
-
+          [Категории тикетов](support/ticket_categories.md)
   - type: content-layout-block
     size: s
 

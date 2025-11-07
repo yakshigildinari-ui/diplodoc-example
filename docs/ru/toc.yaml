@@ -1,13 +1,27 @@
 title: Инструкция пользователя QR-Passport
 href: index.yaml
+navigation:
+  logo:
+    url: "../ru"
+    urlTitle: 'Вернуться на главную'
+    dark:
+      icon: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgMTUwIDQwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHg9Ijc1IiB5PSIyNSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE2IiBmaWxsPSIjZjVmNWY1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+UVItUGFzc3BvcnQ8L3RleHQ+PC9zdmc+"
+    light:
+      icon: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgMTUwIDQwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHg9Ijc1IiB5PSIyNSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE2IiBmaWxsPSIjMDI3YmYzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+UVItUGFzc3BvcnQ8L3RleHQ+PC9zdmc+"
 items: 
   - name: О платформе
     href: about.md
+  - name: Обновления
+    href: updates.md
   - name: Раздел «Организация»
-    href: page.md
-  - name: Раздел «Оборудование»
-    href: anotherpage.md
-  - name: Подраздел
     include:
-      path: sub-section/toc.yaml
+      path: company/toc.yaml
+      mode: link   
+  - name: Раздел «Оборудование»
+    include:
+      path: equipment/toc.yaml
+      mode: link   
+  - name: Раздел «Техническая поддержка»
+    include:
+      path: support/toc.yaml
       mode: link
